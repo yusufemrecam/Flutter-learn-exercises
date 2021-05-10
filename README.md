@@ -1,3 +1,6 @@
 # Flutterlearnexamples
 Flutter öğrenmeye sıfırdan başlayanlar için
--Container Kullanımı
+
+-Container Kullanımı           
+-Hizalama İşlemleri       
+-Aling-Center Kullanımı     
