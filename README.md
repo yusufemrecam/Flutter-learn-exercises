@@ -8,3 +8,4 @@ Flutter öğrenmeye sıfırdan başlayanlar için
 -Widget Oluşturma   
 -Resim Ekleme    
 -Icon Oluşturma           
+-FutureBuilder Kullanımı        
