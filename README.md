@@ -1,4 +1,4 @@
-# Flutterlearnexamples
+# Flutter-learn-exercises
 Flutter öğrenmeye sıfırdan başlayanlar için
 
 -Container Kullanımı           
