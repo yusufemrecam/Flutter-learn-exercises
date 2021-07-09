@@ -11,3 +11,12 @@ Flutter öğrenmeye sıfırdan başlayanlar için
 -FutureBuilder Kullanımı        
 -TextButton Kullanımı
 -Fab(FloatingActionButton) Kullanımı
+-Switch Kullanımı
+
+
+
+
+
+
+
+
