@@ -12,7 +12,8 @@ Flutter öğrenmeye sıfırdan başlayanlar için
 -TextButton Kullanımı
 -Fab(FloatingActionButton) Kullanımı           
 -Switch Kullanımı       
--Toggle buttons kullanımı     
+-Toggle buttons Kullanımı    
+-Checkbox Kullanımı
 
 
 
