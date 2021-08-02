@@ -13,7 +13,7 @@ Flutter öğrenmeye sıfırdan başlayanlar için
 -Fab(FloatingActionButton) Kullanımı           
 -Switch Kullanımı       
 -Toggle buttons Kullanımı    
--Checkbox Kullanımı 
+-Checkbox Kullanımı       
 -Radio Button Kullanımı
 
 
