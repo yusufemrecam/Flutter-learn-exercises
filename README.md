@@ -14,7 +14,8 @@ Flutter öğrenmeye sıfırdan başlayanlar için
 -Switch Kullanımı       
 -Toggle buttons Kullanımı    
 -Checkbox Kullanımı       
--Radio Button Kullanımı
+-Radio Button Kullanımı   
+-Progress Bar Kullanımı  
 
 
 
