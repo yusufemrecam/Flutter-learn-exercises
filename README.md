@@ -9,7 +9,7 @@ Flutter öğrenmeye sıfırdan başlayanlar için
 -Resim Ekleme    
 -Icon Oluşturma           
 -FutureBuilder Kullanımı        
--TextButton Kullanımı
+-TextButton Kullanımı     
 -Fab(FloatingActionButton) Kullanımı           
 -Switch Kullanımı       
 -Toggle buttons Kullanımı    
